@@ -1,4 +1,4 @@
-# Assisted-Design-86.70
+# Diseño Asistido por Computadora-86.70
 
 Proyecto final:
 
